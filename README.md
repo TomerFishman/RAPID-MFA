@@ -6,9 +6,9 @@ RAPID-MFA is a portfolio of dynamic MFA model variants.
 It aims to provide **easily understandable** examples that **just work** of common usages of dynamic MFA models.
 
 Including:
--Python code snippets
--Simple excel-based models
--Tutorials
+- Python code snippets
+- Simple excel-based models
+- Tutorials
 
 The RAPID-MFA portfolio has two objectives:
 1. Make dynamic MFA accessible, streamlined, flexible and easily adaptable
