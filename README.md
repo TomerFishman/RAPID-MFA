@@ -1,8 +1,8 @@
 # The RAPID-MFA project
-RAPID-MFA: *R*eusable *A*lgorithms and *P*rocesses for *I*ntegrated *D*ynamic *M*aterial *F*low *A*nalysis
+__RAPID-MFA__: __R__eusable __A__lgorithms and __P__rocesses for __I__ntegrated __D__ynamic __M__aterial __F__low __A__nalysis
 
 ## What is RAPID-MFA?
-RAPID-MFA is a portfolio of dynamic MFA model variants, in Python codes with descriptions in Jupyter Notebooks.
+A portfolio of dynamic MFA model variants, in Python codes with descriptions in Jupyter Notebooks.
 It aims to provide **easily understandable** examples that **just work** of common usages of dynamic MFA models.
 
 The RAPID-MFA project has two objectives:
@@ -13,20 +13,21 @@ The RAPID-MFA project has two objectives:
 
 RAPID-MFA intends to emphasize clarity, simplicity, and being self-explanatory by sticking to certain principles:
 
-1. Traceability: All Python codes share the same basic codebase, copied and modified from the basic flow-driven codes and stock driven model codes.
-2. Clarity and readability over efficiency: minimal wrapping of code in _for_ loops, _functions_, etc. that might become black boxes. Users can always wrap the basic code in those themselves.
-3. Transparency: no use of custom objects/classes or other black boxes.
-4. Explicit over implicit: thoughtful use of common Python packages including Pandas, Numpy, Scipy, and Seaborn for straightforward and simple tasks, but not as shortcuts for fundamental dynamic MFA operations (unless done on purpose in specific notebooks to compare with the basic models).
-5. Modularity: different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting of code snippets.
+1. __Traceability__: All Python codes share the same basic codebase, copied and modified from the basic flow-driven codes and stock driven model codes.
+2. __Clarity and readability over efficiency__: minimal wrapping of code in _for_ loops, _functions_, etc. that might become black boxes. Users can always wrap the basic code in those themselves.
+3. __Transparency__: no use of custom objects/classes or other black boxes.
+4. __Explicit over implicit__: thoughtful use of common Python packages including Pandas, Numpy, Scipy, and Seaborn for straightforward and simple tasks, but not as shortcuts for fundamental dynamic MFA operations (unless done on purpose in specific notebooks to compare with the basic models).
+5. __Modularity__: each notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting of code snippets.
 
-## Usage notes
+## Usage notes and conventions.
 
-TBA
+Coming soon.
 
 ## Contributors and acknowledgements
 
-Developers and contributors (in no special order): 
-- Tomer Fishman, Leiden University
+Project lead: Tomer Fishman, CML Institute of Environmental Sciences, Leiden University. 
+
+Developers and contributors (past and present, in no special order): 
 - Alessia Linares-Capurro, Leiden University
 - Pablo Ilgemann, Leiden University
 - Nils Pauliks, Leiden University
@@ -36,8 +37,12 @@ Developers and contributors (in no special order):
 - Janneke van Ooorschot, Leiden University
 - Sebastiaan Deetman, Leiden University
 
-Project lead: Tomer Fishman, CML Institute of Environmental Sciences, Leiden University. 
-
-Many thanks to Stefan Pauliuk (Freiburg University), Alessio Miatto (CSIRO), and the cohorts of students of MFA1 and MFA2 for many feedbacks and discussions.
+Many thanks to Stefan Pauliuk (Freiburg University), Alessio Miatto (CSIRO), and the very dynamic cohorts of students of the MFA1 and MFA2 courses in Leiden University for many discussions and feedbacks.
 
 Contact [Tomer Fishman](t.fishman@cml.leidenuniv.nl) for more information.
+
+### Versioning, licence, and how to cite
+
+This GitHub repository tracks changes and versions. 
+
+Please check the [license](https://github.com/TomerFishman/RAPID-MFA/blob/master/LICENSE) before proceeding. You can - and should! - freely reuse and adapt the RAPID-MFA models and codes for noncommercial purposes __as long as you attribute this source__. 
