@@ -1,5 +1,5 @@
 # The RAPID-MFA project
-__RAPID-MFA__: __R__eusable __A__lgorithms and __P__rocesses for __I__ntegrated __D__ynamic __M__aterial __F__low __A__nalysis
+__RAPID-MFA__: **R**eusable **A**lgorithms and **P**rocesses for **I**ntegrated **D**ynamic **M**aterial **F**low **A**nalysis
 
 ## What is RAPID-MFA?
 A portfolio of dynamic MFA model variants, in Python codes with descriptions in Jupyter Notebooks.
@@ -41,7 +41,7 @@ Many thanks to Stefan Pauliuk (Freiburg University), Alessio Miatto (CSIRO), and
 
 Contact [Tomer Fishman](t.fishman@cml.leidenuniv.nl) for more information.
 
-### Versioning, licence, and how to cite
+## Versioning, licence, and how to cite
 
 This GitHub repository tracks changes and versions. 
 
