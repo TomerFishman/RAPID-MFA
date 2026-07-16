@@ -13,15 +13,18 @@ The RAPID-MFA project has two objectives:
 
 RAPID-MFA intends to emphasize clarity, simplicity, and being self-explanatory by sticking to certain principles:
 
-1. __Traceability__: All Python codes share the same basic codebase, copied and modified from the basic flow-driven codes and stock driven model codes.
+1. __Traceability__: All Python codes share the same basic codebases of the RAPID-MFA basic flow-driven model and basic stock driven model. Each notebook describes its relations to other notebooks. 
 2. __Clarity and readability over efficiency__: minimal wrapping of code in _for_ loops, _functions_, etc. that might become black boxes. Users can always wrap the basic code in those themselves.
 3. __Transparency__: no use of custom objects/classes or other black boxes.
 4. __Explicit over implicit__: thoughtful use of common Python packages including Pandas, Numpy, Scipy, and Seaborn for straightforward and simple tasks, but not as shortcuts for fundamental dynamic MFA operations (unless done on purpose in specific notebooks to compare with the basic models).
-5. __Modularity__: each notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting of code snippets.
+5. __Modularity__: each notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting of the code snippets.
 
-## Usage notes and conventions.
-
-Coming soon.
+## Usage notes
+1. Find the RAPID-MFA notebook that covers what you want to do in the (Table of Contents)[https://github.com/TomerFishman/RAPID-MFA/blob/master/RAPID-MFA%20notebooks/README.md]
+2. Read the notebook's introduction section. The notebooks are meant to be self-explanatory with lots of descriptions, equations, visualizations, and notes in Markdown. Note the relations with other notebooks and check them too.
+3. Run the code one block at a time, reading the accompanying Markdown and inline comments.
+4. Copy and paste relevant code snippets into your own work, modifying them as you wish.
+5. Tell us what you think!
 
 ## Contributors and acknowledgements
 
