@@ -20,7 +20,7 @@ RAPID-MFA intends to emphasize clarity, simplicity, and being self-explanatory b
 5. __Modularity__: each model notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting together of the code snippets.
 
 ## Usage notes
-1. Find the RAPID-MFA notebook that covers what you want to do in the (Table of Contents)[https://github.com/TomerFishman/RAPID-MFA/blob/master/RAPID-MFA%20notebooks/README.md]
+1. Find the RAPID-MFA notebook that covers what you want to do in the [Table of Contents](https://github.com/TomerFishman/RAPID-MFA/blob/master/RAPID-MFA%20notebooks/README.md)
 2. Read the notebook's introduction section. The notebooks are meant to be self-explanatory with lots of descriptions, equations, visualizations, and notes in Markdown. Note the relations with other notebooks and check them too.
 3. Run the code one block at a time, reading the accompanying Markdown and inline comments.
 4. Copy and paste relevant code snippets into your own work, modifying them as you wish.
