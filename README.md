@@ -3,21 +3,21 @@ __RAPID-MFA__: **R**eusable **A**lgorithms and **P**rocesses for **I**ntegrated 
 
 ## What is RAPID-MFA?
 A portfolio of dynamic MFA model variants, in Python codes with descriptions in Jupyter Notebooks.
-It aims to provide **easily understandable** examples that **just work** of common usages of dynamic MFA models.
+It aims to provide **easily understandable** models of common usages of dynamic MFA that are **ready to work**.
 
 The RAPID-MFA project has two objectives:
-1. Make dynamic MFA accessible, streamlined, flexible, and easily adaptable.
-2. Serve as teaching material for self-learning and for courses such as [the MFA course of the Industrial Ecology MSc program of Leiden University](https://studiegids.universiteitleiden.nl/modules/4413MFA10Y).
+1. Simple, accessible, streamlined, flexible, and easily adaptable Dynamic MFA modeling.
+2. Easy learning curve for self-study and for courses such as [the MFA course of the Industrial Ecology MSc program of Leiden University](https://studiegids.universiteitleiden.nl/modules/4413MFA10Y).
 
 ## Project principles
 
 RAPID-MFA intends to emphasize clarity, simplicity, and being self-explanatory by sticking to certain principles:
 
-1. __Traceability__: All Python codes share the same basic codebases of the RAPID-MFA basic flow-driven model and basic stock driven model. Each notebook describes its relations to other notebooks. 
-2. __Clarity and readability over efficiency__: minimal wrapping of code in _for_ loops, _functions_, etc. that might become black boxes. Users can always wrap the basic code in those themselves.
-3. __Transparency__: no use of custom objects/classes or other black boxes.
-4. __Explicit over implicit__: thoughtful use of common Python packages including Pandas, Numpy, Scipy, and Seaborn for straightforward and simple tasks, but not as shortcuts for fundamental dynamic MFA operations (unless done on purpose in specific notebooks to compare with the basic models).
-5. __Modularity__: each notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting of the code snippets.
+1. __Traceability__: All models and examples share the same basic codebases of the RAPID-MFA basic flow-driven model and basic stock driven model. Each model's notebook describes its relations to other notebooks. 
+2. __Clarity and readability__: Keeping code as close as possible to the dynamic MFA modelling equations. Lots of explanations, notes,  comments, and visualizations.
+3. __Transparency over efficiency__: Simple inflows-stocks-outflows modeling. Minimal wrapping of code in _functions_, etc. that might become black boxes. No use of custom objects/classes or other black boxes. Users can always wrap the basic code in those themselves. 
+4. __Explicit over implicit__: Step-by-step modeling. Thoughtful use of common Python packages including Pandas, Numpy, Scipy, and Seaborn for straightforward and simple general tasks, but not as shortcuts for fundamental dynamic MFA operations (unless done on purpose in specific notebooks to compare with the basic models).
+5. __Modularity__: each model notebook does one thing only. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting together of the code snippets.
 
 ## Usage notes
 1. Find the RAPID-MFA notebook that covers what you want to do in the (Table of Contents)[https://github.com/TomerFishman/RAPID-MFA/blob/master/RAPID-MFA%20notebooks/README.md]
