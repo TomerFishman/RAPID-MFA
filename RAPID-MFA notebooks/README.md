@@ -1,5 +1,7 @@
 # RAPID-MFA Table of contents
 
+`RAPID-MFA-0: RAPID-MFA's conventions and common data structures`: Defines the basic building blocks of RAPID-MFA and their logic, including its modeling conventions, terminology, formats, and data structures.
+
 `RAPID-MFA-1: The flow driven model`: The basic RAPID MFA flow driven model, explained step by step with the corresponding modeling equations. It's also the core building block for all other RAPID-MFA notebooks that use the flow driven model.
 
 `RAPID-MFA-2: The stock driven model`: The basic RAPID MFA stock driven model, explained step by step with the corresponding modeling equations. It's also the core building block for all other RAPID-MFA notebooks that use the stock driven model.
@@ -17,3 +19,8 @@
 `RAPID-MFA-8: Splitting inflows for maintenance and for expansion`: dissagregate the inflows into their two purposes, and how this differs when the stocks grow, stabilize, and decline. This dissagregation can only be calculated after a full calculation of the entire basic dynamic MFA system.
 
 `RAPID-MFA-9: Switching from products/services to materials with changing material compositions`: The basic RAPID MFA model of both products and materials within them, also known as the "demand-driven model" / "services-products-materials cascade" / "Müller 2006-style model" / "multi-layer dynamic model" / "stocks-flows-services nexus model" and many other names. It also introduces the __material intensity__ coefficient and the modeling of material compositions that change over time, to show how the flows and stocks of products diverge from the flows and stocks of a material within those products in such cases, as well as the _material stock productivity_ indicator.
+
+RAPID-MFA-10a: Immediate material substitution: models two materials in one product and a substitution between them from a specific point in time onwards.
+
+RAPID-MFA-10b: Material substitution over time: models two materials in one product and a gradual substitution between them.
+
