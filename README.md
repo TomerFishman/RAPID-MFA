@@ -1,6 +1,12 @@
 # The RAPID-MFA project
 __RAPID-MFA__: **R**eusable **A**lgorithms and **P**rocesses for **I**ntegrated **D**ynamic **M**aterial **F**low **A**nalysis
 
+> [!WARNING]
+> This repository is still in beta and not formally launched. Everything here is still subject to change without early notice.
+> Please share with us bugs and issues, but we may not be able to provide support while the project is still being developed.
+> Avoid citing and relying on these for your work while this notice is up.
+
+
 ## What is RAPID-MFA?
 A portfolio of dynamic MFA model variants, in Python codes with descriptions in Jupyter Notebooks.
 It aims to provide **easily understandable** models of common usages of dynamic MFA that are **ready to work**.
@@ -18,7 +24,6 @@ The RAPID-MFA project has two objectives:
 1. __Modularity__: Each notebook does one thing only. Lots of common terminology. No modifications to the common data structures or extra flows or stocks processes unless required for the example. Different code files and code blocks/cells should be easily swappable, combined, and daisy-chained by simple copying and pasting together of code snippets.
 
 ## How to use RAPID-MFA!
->__This repository is still in beta and not formally launched. Everything here is still subject to change without early notice. Please share with us bugs and issues, but we may not be able to provide support while the project is still being developed. Avoid citing and relying on these for your work while this notice is up.__
 
 1. Find the RAPID-MFA notebook that covers what you want to do in the [Table of Contents](https://github.com/TomerFishman/RAPID-MFA/blob/master/RAPID-MFA%20notebooks/README.md)
 1. Read the notebook's introduction section. The notebooks are meant to be self-explanatory with lots of descriptions, equations, visualizations, and notes in Markdown. Note the relations with other notebooks and check them too.
