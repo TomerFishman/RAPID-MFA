@@ -2,7 +2,7 @@
 __RAPID-MFA__: **R**eusable **A**lgorithms and **P**rocesses for **I**ntegrated **D**ynamic **M**aterial **F**low **A**nalysis
 
 > [!WARNING]
-> This repository is still in beta and not formally launched. Everything here is still subject to change without early notice.
+> This repository is funcional, but is still in beta and not formally launched. Everything here is still subject to change without early notice.
 > Please share with us bugs and issues, but we may not be able to provide support while the project is still being developed.
 > Avoid citing and relying on these for your work while this notice is up.
 
